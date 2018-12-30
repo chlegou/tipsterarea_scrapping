@@ -1,0 +1,49 @@
+england|premier league|Crystal Palace:Chelsea|6|6|6|3|3|2|8|6|1|0|1|1
+england|premier league|Burnley:West Ham|5|9|7|7|6|10|8|4|0|0|0|1
+england|premier league|Southampton:Manchester City|8|9|10|8|8|10|7|7|0|1|2|1
+england|premier league|Manchester United:Bournemouth|14|8|2|12|10|4|2|13|0|0|2|0
+italy|serie b|Foggia:Verona|6|10|10|3|10|8|5|7|1|2|4|2
+italy|serie b|Ascoli:Crotone|5|8|3|13|10|8|3|12|2|1|2|0
+italy|serie b|Cittadella:Palermo|3|8|9|3|9|7|9|3|3|2|2|2
+italy|serie b|Cremonese:Perugia|8|8|6|7|7|2|6|10|1|3|1|2
+italy|serie b|Salernitana:Pescara|6|10|9|7|8|8|7|11|1|0|0|1
+italy|serie b|Venezia:Carpi|3|4|7|10|5|3|5|5|2|1|1|2
+italy|serie b|Benevento:Brescia|5|1|11|5|7|4|9|8|1|1|0|3
+italy|serie b|Livorno:Padova|8|5|4|10|6|4|9|12|2|0|2|0
+italy|serie b|Spezia:Lecce|10|5|7|4|9|5|9|10|2|1|2|1
+italy|serie c - group a|Entella:Gozzano|5|3|3|3|5|4|3|2|2|3|2|4
+italy|serie c - group a|Alessandria:Juventus U23|4|4|3|4|2|8|3|2|3|1|2|0
+italy|serie c - group a|Arezzo:Lucchese|6|5|6|7|6|5|7|8|2|4|4|4
+italy|serie c - group a|Carrarese:Arzachena|4|7|4|8|9|6|1|11|1|0|0|0
+italy|serie c - group a|Cuneo:Pisa 1909|2|4|6|4|2|2|9|6|2|2|3|2
+italy|serie c - group a|Novara:Pontedera|9|4|5|7|12|6|6|3|3|2|2|1
+italy|serie c - group a|Olbia:Albissola|2|8|7|9|3|8|5|9|2|2|2|3
+italy|serie c - group a|Piacenza:Pro Vercelli|2|2|4|3|4|5|8|2|1|2|0|1
+italy|serie c - group a|Pistoiese:Pro Patria|6|5|6|3|7|3|6|6|0|1|0|1
+italy|serie c - group a|Siena:Pro Piacenza|11|3|3|14|9|4|2|12|1|0|1|0
+italy|serie c - group b|Teramo:Sudtirol|5|4|5|5|6|5|2|6|1|2|1|1
+italy|serie c - group b|Rimini:Ternana|5|5|10|9|8|3|4|6|1|1|1|1
+italy|serie c - group c|Juve Stabia:Siracusa|11|2|3|6|15|0|3|9|2|3|0|1
+italy|serie c - group c|Catania:Monopoli 1966|7|1|5|2|9|3|7|5|1|2|0|3
+italy|serie c - group c|Potenza:Catanzaro|3|4|7|5|8|3|7|3|2|2|2|1
+italy|serie c - group c|Reggina:Trapani|11|4|8|5|7|6|6|5|0|1|1|3
+italy|serie c - group c|Rende 1968:Paganese|4|7|5|12|7|5|3|12|1|1|1|0
+italy|serie c - group c|Rieti:Matera|6|5|6|14|7|10|2|9|0|2|0|2
+italy|serie c - group c|Sicula Leonzio:Viterbese|2|7|10|4|3|7|1|8|3|2|1|1
+italy|serie c - group c|Vibonese:Bisceglie 1913|3|5|1|7|9|2|0|10|2|1|2|0
+italy|serie c - group c|Cavese 1919:Casertana|7|7|1|4|5|4|2|2|2|2|3|3
+israel|premier league|Hapoel Hadera:Maccabi Petah Tikva|2|5|3|2|5|7|3|6|2|4|1|2
+israel|premier league|Hapoel Tel Aviv:Bnei Sakhnin|4|6|3|7|2|6|3|6|3|1|3|2
+portugal|segunda liga|Academica Coimbra:Leixoes|7|7|4|8|6|10|1|6|0|1|0|1
+portugal|segunda liga|Farense:Oliveirense|5|5|3|9|5|6|3|7|1|1|1|3
+portugal|league cup|Belenenses:Porto|11|8|15|8|8|3|11|4|1|0|1|0
+portugal|league cup|Chaves:Varzim|1|8|5|7|4|8|6|9|0|1|1|1
+wales|premier league|Newtown AFC:Aberystwyth Town|9|7|2|11|14|5|10|11|1|1|2|0
+australia|a-league|Newcastle United Jets:Adelaide United|5|8|6|8|4|6|9|6|0|1|1|0
+egypt|premier league|Smouha SC:Al Masry Port Said|2|3|4|4|3|3|3|6|4|3|5|2
+india|i-league|Indian Arrows:Churchill Brothers Goa|1|5|8|6|2|3|6|3|1|1|1|2
+morocco|botola|Raja Casablanca:RSB Berkane|6|5|5|5|15|4|3|5|2|3|1|3
+morocco|botola|HUSA Agadir:FUS Rabat|3|2|3|3|4|1|4|9|2|2|2|1
+saudi arabia|professional league|Ohod Medina:Al-Raed|1|9|4|5|5|8|7|9|0|1|1|0
+saudi arabia|professional league|Al-Taawoun:Al-Hilal Riyadh|8|5|9|8|12|7|8|1|0|2|1|1
+tunisia|ligue professionnelle 1|Club Africain Tunis:ES Metlaoui|10|3|5|9|7|8|3|9|1|1|0|1
